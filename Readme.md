@@ -8,15 +8,15 @@ Um exemplo de utilização de pilha consiste em avaliar uma expressão aritméti
 
 Simule a ação do algoritmo de verificação de “()”, “{}” e “[]” nas expressões aritméticas a seguir e verifique o resultado da avaliação (se a expressão é válida ou não):
 
-**a)** (A + B}) Invalido
+**a)** (A + B})
 
-**b)** {[A + B] – [(C - D)] Invalido
+**b)** {[A + B] – [(C - D)]
 
-**c)** (A + B) – {C + D} – [F + G] Valido
+**c)** (A + B) – {C + D} – [F + G]
 
-**d)** ((H) * {([J + K])}) Valido
+**d)** ((H) * {([J + K])})
 
-**e)** (((A))) Valido
+**e)** (((A)))
 
 ## Dados Relevantes
 
