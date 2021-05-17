@@ -18,6 +18,19 @@ Simule a ação do algoritmo de verificação de “()”, “{}” e “[]” n
 
 **e)** (((A))) Valido
 
+## Dados Relevantes
+
+TABELA ASCII
+
+CHAR | INT
+--- | ---
+( | 40
+) | 41
+[ | 91
+] | 93
+{ | 123
+} | 125
+
 ## Resultado
 
 **a)** Equação Inválida
